@@ -1,0 +1,4 @@
+concorrente,tipo_preco,faixa_preco_min,faixa_preco_max,nicho_saude,nivel_humanizacao,nivel_complexidade,velocidade_resposta,observacao_curta
+Cloudia,fixo,449.90,1039.90,sim,media,media,lenta,"Boa base multicanal e áudio; demora na resposta pode frustrar"
+Huggy,misto,0,989,nao,baixa,baixa,rapida,"Forte em omnichannel e marketing; conversa engessada e focada em lead"
+Blip,sob_consulta,,,nao,baixa,alta,rapida,"Infra robusta e completa; complexa e pouco humanizada para clínicas pequenas"

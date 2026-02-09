@@ -1,0 +1,18 @@
+#python/jupyter
+__pycache__/    
+*.pyc
+.ipynb_checkpoints/
+
+#virtual environment
+.venv/
+venv/
+
+#Os
+.DS_Store
+thumbs.db
+
+# Outputs gerados 
+output/graficos/*
+output/tabelas/*
+!output/graficos/.gitkeep
+!output/tabelas/.gitkeep

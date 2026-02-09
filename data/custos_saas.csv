@@ -1,0 +1,12 @@
+categoria,item,tipo_custo,estimativa_min_brl,estimativa_max_brl
+Infraestrutura,Servidor cloud,Fixo,100,300
+Infraestrutura,Banco de dados,Fixo,50,150
+Infraestrutura,Storage,Variavel,20,80
+IA,API IA (LLM),Variavel,100,500
+IA,Transcricao de audio,Variavel,50,200
+WhatsApp,API oficial BSP,Variavel,150,400
+Integracoes,Google Calendar API,Baixo,0,50
+Suporte,Atendimento tecnico,Variavel,50,150
+Marketing,Landing page,Fixo,30,100
+Seguranca,SSL e protecao,Fixo,20,50
+Monitoramento,Logs e uptime,Fixo,20,80

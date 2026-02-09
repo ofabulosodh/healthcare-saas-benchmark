@@ -1,0 +1,24 @@
+feature,categoria
+WhatsApp,multicanal
+Instagram,multicanal
+Messenger,multicanal
+Webchat,multicanal
+Disparo em massa,automacao
+Fluxos automatizados,automacao
+Sequencias,automacao
+Encaminhamento humano,atendimento
+Agenda integrada,integracao
+Dashboard,analytics
+Relatorios,analytics
+CRM,gestao
+Funil de vendas,gestao
+Audio,experiencia
+IA basica,ia
+IA contextual,ia_avancada
+Memoria paciente,ia_avancada
+Follow-up automatico,ia_avancada
+Reativacao paciente,ia_avancada
+Lembrete inteligente,ia_avancada
+Remarcacao automatica,ia_avancada
+Personalidade bot,ia_avancada
+Tom emocional,ia_avancada

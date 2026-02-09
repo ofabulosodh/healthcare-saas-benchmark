@@ -1,0 +1,7 @@
+
+plataforma,plano,preco_mensal_brl,usuarios_limite,pacientes_unicos_mes
+Cloudia,Inicial,449.90,5,200
+Cloudia,Basico,599.90,5,400
+Cloudia,Essencial,749.90,5,600
+Cloudia,Impulso,1039.90,5,1200
+Cloudia,Escala,,5,1200
