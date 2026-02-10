@@ -11,3 +11,9 @@ Este repositório contém a análise de concorrentes (benchmarking) e a geraçã
 1. Crie um ambiente virtual (opcional)
 2. Instale dependências (ver `requirements.txt`)
 3. Rode o notebook em `notebook/relatorio.ipynb`
+
+
+Status: Proof of Concept / Market Analysis
+This repository contains a competitive benchmark analysis for a healthcare SaaS.
+The goal is to support client presentations and validate pricing and cost assumptions.
+This is not the final SaaS product, but an early analytical step toward it.
